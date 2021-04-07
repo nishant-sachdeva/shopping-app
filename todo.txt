@@ -1,0 +1,20 @@
+Here is a to-do list for all that needs to be done for making the app work.
+We are going to build everything from scratch
+
+
+- install and setup Django
+- Install and setup vue
+
+- include Font Awesome
+- set up base template
+- create django app and views for the products
+- create serializer and viwes for the products
+
+- view a product
+	- create viewset in django
+	- create vue page for showing product
+	- add link to detail page
+- settle op Vuex / state
+- make it possible to add to cart
+	- add functionality to vuex
+
