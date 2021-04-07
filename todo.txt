@@ -17,4 +17,22 @@ We are going to build everything from scratch
 - settle op Vuex / state
 - make it possible to add to cart
 	- add functionality to vuex
+	- Initialize store in app.vue
+	- Add button to product page
+	- Show a toast message ( popup to show that message has been added )
 
+- Implement a loading bar
+- Set document title ( All pages )
+- Make it possible to view a category 
+	- convert the product to a component
+- Add Search Functionality
+- View Cart
+	- A cart item should be a component
+
+- Change contents of cart
+	- Increment/Decrement content
+	- Remove from cart
+- Make it possible to sign up
+- Make it possible to log in
+- Create a simple my account page
+- Proceed to checkout (Authentication)
